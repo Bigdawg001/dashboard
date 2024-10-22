@@ -1,8 +1,29 @@
-# Changelog
+## [0.2.3](https://github.com/paralus/dashboard/compare/v0.2.2...v0.2.3) (2024-06-14)
 
-All notable changes to this project will be documented in this file.
+### Features
 
-## Unreleased
+* add description field for project and cluster card ([#251](https://github.com/paralus/dashboard/issues/251)) ([68b23d9](https://github.com/paralus/dashboard/commit/68b23d9933f0408c925dd96967ecc31889467460))
+
+## [0.2.2](https://github.com/paralus/dashboard/compare/v0.2.1...v0.2.2) (2024-02-28)
+
+### Features
+
+* changes for cluster connection status and defaulting to card lister ([#237](https://github.com/paralus/dashboard/issues/237)) ([be7d5cb](https://github.com/paralus/dashboard/commit/be7d5cb4f2a203d5bf4ad0c293c61111e128e31a))
+
+## [0.2.1](https://github.com/paralus/dashboard/compare/v0.2.0...v0.2.1) (2023-09-25)
+
+### Features
+* changes to view auditlogs by project role users ([#225](https://github.com/paralus/paralus/issues/225)) ([11556ac](https://github.com/paralus/dashboard/commit/11556aca1661a6d4d59ab0412f6420b96920f383))
+
+## [0.2.0](https://github.com/paralus/dashboard/compare/v0.1.9...v0.2.0) (2023-04-28)
+
+### Bug Fixes
+
+* pinned IDP mapper url to v0.2.2 version ([#173](https://github.com/paralus/dashboard/issues/173)) ([7825659](https://github.com/paralus/dashboard/commit/78256593361397a2a0703922b4952dee8053166f))
+
+## [0.1.9]- 2023-03-31
+### Fixed
+- Fix showing Kratos information on error page [akshay196](https://github.com/akshay196)
 
 ## [0.1.8]- 2023-02-24
 ### Fixed
@@ -66,7 +87,11 @@ All notable changes to this project will be documented in this file.
 ### Added
 - Initial release
 
-[Unreleased]: https://github.com/paralus/dashboard/compare/v0.1.8...HEAD
+[Unreleased]: https://github.com/paralus/dashboard/compare/v0.2.2...HEAD
+[0.2.2]: https://github.com/paralus/dashboard/compare/v0.2.1...v0.2.2
+[0.2.1]: https://github.com/paralus/dashboard/compare/v0.2.0...v0.2.1
+[0.2.0]: https://github.com/paralus/dashboard/compare/v0.1.9...v0.2.0
+[0.1.9]: https://github.com/paralus/dashboard/compare/v0.1.8...v0.1.9
 [0.1.8]: https://github.com/paralus/dashboard/compare/v0.1.7...v0.1.8
 [0.1.7]: https://github.com/paralus/dashboard/compare/v0.1.6...v0.1.7
 [0.1.6]: https://github.com/paralus/dashboard/compare/v0.1.5...v0.1.6
